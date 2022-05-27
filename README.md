@@ -1,5 +1,10 @@
 # Ubermag workshops
 
+This repository contains several Ubermag workshops. The table below gives an overview over the different workshops. The Jupyter Notebooks used during these workshops can be executed online using the `launch binder` buttons in the table. The ubermag packages evolves and changes over time. The older workshops therefore present the feature set available at the time when the workshop was held and are not updated to reflect e.g. syntax or interface changes.
+
+An always up-to-date set of tutorial notebooks is available on our website ([getting started](https://ubermag.github.io/getting-started/index.html) and [examples](https://ubermag.github.io/examples/index.html)) and in the [tutorials repository](https://github.com/ubermag/tutorials).
+
+
 | Date | Location | Data | Binder | Recording | Ubermag version |
 | ---- | -------- | ---- | ------ | --------- | --------------- |
 | 2022-06-29 | Sol Skymag | [View online](https://github.com/lang-m/ubermag-workshop-rearrangement/tree/2022-06-29) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lang-m/ubermag-workshop-rearrangement/2022-06-29?urlpath=lab/tree/tutorials/index.ipynb) | [?] | 0.62.X (?) |
