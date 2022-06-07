@@ -6,8 +6,6 @@ Marijan Beg<sup>1</sup>, Ryan A. Pepper<sup>1</sup>, and Hans Fangohr<sup>1,2</s
 
 | Description | Badge |
 | --- | --- |
-| Builds | [![Build Status](https://travis-ci.org/ubermag/workshop.svg?branch=master)](https://travis-ci.org/ubermag/workshop) |
-|        | [![Build status](https://ci.appveyor.com/api/projects/status/frw46id1gk7i5440?svg=true)](https://ci.appveyor.com/project/marijanbeg/workshop) |
 | Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?filepath=tutorials%2Findex.ipynb) |
 | YouTube | [![Youtube](https://img.shields.io/badge/YouTube-ubermag-red)](https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
