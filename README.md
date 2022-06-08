@@ -6,7 +6,7 @@ Marijan Beg<sup>1</sup>, Ryan A. Pepper<sup>1</sup>, and Hans Fangohr<sup>1,2</s
 
 | Description | Badge |
 | --- | --- |
-| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/master?filepath=tutorials%2Findex.ipynb) |
+| Binder | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2020-06-18_2020-07-02?labpath=tutorials%2Findex.ipynb) |
 | YouTube | [![Youtube](https://img.shields.io/badge/YouTube-ubermag-red)](https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg) |
 | License | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
