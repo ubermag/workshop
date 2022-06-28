@@ -23,6 +23,9 @@ The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
 
 - Home page: https://ubermag.github.io/
 
+- Submit new and browse existing support queries in the [help
+  Ubermag repository](https://github.com/ubermag/help).
+
 - [Mailing list](https://listserv.gwdg.de/mailman/listinfo/ubermag-users)
 
 ## Acknowledgements
