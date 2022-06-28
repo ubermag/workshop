@@ -11,7 +11,7 @@ the workshop will be shared.
 
 The Jupyter notebooks shown are available in the [tutorials](tutorials) folder.
 
-To execute them in your browser, [follow this (Binder) link](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29), and navigate to the examples in the ``tutorial`` folder.
+To execute the example Jupyter notebooks in your browser, [follow this (Binder) link](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials), and select the desired `.ipynb` file from the left by double clicking.
 
 ## Acknowledgements
 
