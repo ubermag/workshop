@@ -27,12 +27,12 @@ The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
 - [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research
   Infrastructure project (676541)
 
-## This webpage 
+### This webpage 
 
 - https://github.com/ubermag/workshop/blob/2022-06-29/README.md
 - https://tinyurl.com/solskymag22-ubermag
 
-- ![QR code](media/solskymag22-ubermag-400.png)
+- <img src="media/solskymag22-ubermag-400.png" width="100">
 
 
 
