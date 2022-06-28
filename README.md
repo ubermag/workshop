@@ -1,3 +1,5 @@
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) 
+
 # Workshop: Micromagnetics with Ubermag
 
 SolSkyMag, San Sebastian, 29 June 2022
