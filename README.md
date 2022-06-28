@@ -1,4 +1,4 @@
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) 
 
 # Workshop: Micromagnetics with Ubermag
 
@@ -22,6 +22,8 @@ The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
 ## Ubermag in general
 
 - Home page: https://ubermag.github.io/
+
+- [Mailing list](https://listserv.gwdg.de/mailman/listinfo/ubermag-users)
 
 ## Acknowledgements
 
