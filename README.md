@@ -6,7 +6,7 @@ SolSkyMag, San Sebastian, 29 June 2022
 
 ## About this repository
 
-This repository is a place where all the information and materials related to
+[This repository](https://github.com/ubermag/workshop/tree/2022-06-29) is a place where all the information and materials related to
 the workshop will be shared. 
 
 ## Example notebooks shown
@@ -19,6 +19,10 @@ To execute the example Jupyter notebooks in your browser, [follow this (Binder) 
 
 The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
 
+## Ubermag in general
+
+- Home page: https://ubermag.github.io/
+
 ## Acknowledgements
 
 - EPSRC Programme grant on [Skyrmionics](http://www.skyrmions.ac.uk)
@@ -26,6 +30,8 @@ The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
   
 - [OpenDreamKit](http://opendreamkit.org/) – Horizon 2020 European Research
   Infrastructure project (676541)
+
+-------------------
 
 ### This webpage 
 
