@@ -15,6 +15,10 @@ The Jupyter notebooks shown are available in the [tutorials](tutorials) folder.
 
 To execute the example Jupyter notebooks in your browser, [follow this (Binder) link](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials), and select the desired `.ipynb` file from the left by double clicking.
 
+## Slides
+
+The slides used as [one combined pdf file](slides/introduction-and-closing.pdf).
+
 ## Acknowledgements
 
 - EPSRC Programme grant on [Skyrmionics](http://www.skyrmions.ac.uk)
