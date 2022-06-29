@@ -14,7 +14,7 @@ repository](https://github.com/ubermag/tutorials).
 
 | Date | Location | Data | Run online | Recording | Ubermag version |
 | ---- | -------- | ---- | ---------- | --------- | --------------- |
-| 2022-06-29 | Sol Skymag | [View online](https://github.com/ubermag/workshop/tree/2022-06-29) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials/index.ipynb) | [?] | 0.62.X (?) |
+| 2022-06-29 | Sol Skymag | [View online](https://github.com/ubermag/workshop/tree/2022-06-29) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2022-06-29?urlpath=lab/tree/tutorials/index.ipynb) | [?] | `0.63.0` |
 | 2020-06-18 - 2020-07-02 | Spintalks and IEEE Magnetics Society | [View online](https://github.com/ubermag/workshop/tree/2020-06-18_2020-07-02) [Download](https://github.com/ubermag/workshop/releases/tag/2020-06-18_v1) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2020-06-18_2020-07-02?urlpath=lab/tree/tutorials/index.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-ubermag-red)](https://www.youtube.com/channel/UC7MSqVQSMFV42R1jAYmKGLg) | `0.23` |
 | 2020-04-24 - 2020-05-14 | Skyrmion Project | [View online](https://github.com/ubermag/workshop/tree/2020-04-25_2020-05-14) [Download](https://github.com/ubermag/workshop/releases/tag/2020-04-24_v1) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ubermag/workshop/2020-04-25_2020-05-17?urlpath=lab/tree/tutorials/index.ipynb) | [not available] | `0.21` |
 
