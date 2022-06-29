@@ -3,4 +3,7 @@ channels:
 
 dependencies:
   - python==3.8
-  - ubermag==0.63.0
+  - pip
+  - oommf
+  - pip:
+    - ubermag==0.63.0
